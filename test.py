@@ -18,7 +18,6 @@ car = path('car.gif')
 tiles = list(range(32)) * 2
 state = {'mark': None}
 hide = [True] * 64
-pass = 9876545464
 secret_key = abcgdgehf9273jdhfjshd34582738727376
 
 def square(x, y):
