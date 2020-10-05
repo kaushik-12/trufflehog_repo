@@ -12,6 +12,7 @@ end();
 win();
 int m[500],n[500],con=20;
 clock_t start,stop;
+int pass = 9876545464
 		 		 		 		 		 		 		 		 		 		 		 		 		 		 		 		 		 		 		 		 		 		 void main(void)
 {
 
